@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="<?php echo get_bloginfo('template_directory'); ?>/css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="<?php echo get_bloginfo('template_directory'); ?>/css/overrides.css">
     <link rel="stylesheet" href="<?php echo get_bloginfo('template_directory'); ?>/css/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="<?php echo get_bloginfo('template_directory'); ?>/style.css">
 
 <?php wp_head(); ?>
 </head>
