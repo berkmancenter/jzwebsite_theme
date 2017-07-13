@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Jonathan Zittrain <?php echo wp_title(); ?></title>
+    <title><?php echo get_bloginfo( 'name' ); ?> <?php echo wp_title(); ?></title>
     <meta name="description" content="<?php echo get_bloginfo( 'description' ); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
